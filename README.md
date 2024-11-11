@@ -62,15 +62,15 @@ Here are some of the screenshots form the game itself!!
 
 - When the game starts
   
-![Game Screenshot](./Screenshots/gameStart.png)
+<img src="./Screenshots/gameStart.png" width="500" />
 
 - Im between of a round
   
-![Game Screenshot](./Screenshots/gameMid.png)
+<img src="./Screenshots/gameMid.png" width="500" />
 
 - When the game gets over
 
-![Game Screenshot](./Screenshots/gameOver.png)
+<img src="./Screenshots/gameOver.png" width="500" />
 
 
 **Play yourself and enjoy the Game!!**
