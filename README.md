@@ -74,4 +74,5 @@ Here are some of the screenshots form the game itself!!
 
 
 **Play yourself and enjoy the Game!!**
-*Feel free to report any bugs of ideas to improvement of this project!!*
+
+*Feel free to report any bugs or ideas for improvement of this project!!*
